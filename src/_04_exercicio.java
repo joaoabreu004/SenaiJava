@@ -1,4 +1,4 @@
-public class exercicioquatro {
+public class _04_exercicio {
     public static void main(String[] args) {
         double base = 5;
         double catetos = 9;

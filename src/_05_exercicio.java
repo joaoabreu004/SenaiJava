@@ -1,4 +1,4 @@
-public class exerciciocinco {
+public class _05_exercicio {
     public static void main(String[] args) {
         double raio = 5;
         double pi = 3.1415;

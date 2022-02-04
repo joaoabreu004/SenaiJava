@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exerciciosete {
+public class _07_exercicio {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         double graus, fa, k;

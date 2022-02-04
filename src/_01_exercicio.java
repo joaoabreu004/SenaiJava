@@ -1,4 +1,4 @@
-public class exercicioum {
+public class _01_exercicio {
     public static void main(String[] args) {
         float nota1, nota2, nota3;
         nota1 = 10;

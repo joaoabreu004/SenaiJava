@@ -1,4 +1,4 @@
-public class exercicioseis {
+public class _06_exercicio {
     public static void main(String[] args) {
         //1 pé = 12 polegadas
         //1 jarda = 3 pés
