@@ -1,4 +1,4 @@
-public class _10_ExercicioSoluçãoAlternativa {
+public class _10_ExercicioSolucaoAlternativa {
     public static void main(String[] args) {
         double salario = 2000;
         double aumento;
