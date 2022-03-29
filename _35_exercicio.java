@@ -1,2 +1,15 @@
-package PACKAGE_NAME;public class _35_exercicio {
+//JAVA RECURSION
+
+public class _35_exercicio {
+        public static void main(String[] args) {
+            int result = sum(10);
+            System.out.println(result);
+        }
+        public static int sum(int k) {
+            if (k > 0) {
+                return k + sum(k - 1);
+            } else {
+                return 0;
+            }
+        }
 }
